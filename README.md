@@ -15,4 +15,4 @@ Il fournit également sur sur son port D1 le signal numérique de synchro. Ce si
 
 La résistance RV2 permet d'ajuster au mieux au format NBTV le signal de vidéo composite en sortie U2A.
 
-Le deuxième des 4 AOP constituant le LM324 U2B est mis à profit pour être utilisé comme montage suiveur. Le signal vidéo composite est accessible que ce soit par 
+Le deuxième des 4 AOP constituant le LM324 U2B est mis à profit pour être utilisé comme montage suiveur. Le signal vidéo composite est accessible que ce soit par la cosse poignard TP3, le bornier à vis J3 ou la prise CINCH J2.
