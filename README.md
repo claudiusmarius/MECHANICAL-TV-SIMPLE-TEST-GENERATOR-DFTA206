@@ -17,7 +17,7 @@ La résistance RV2 permet d'ajuster au mieux au format NBTV le signal de vidéo 
 
 Le deuxième des 4 AOP constituant le LM324 U2B est mis à profit pour être utilisé comme montage suiveur. Le signal vidéo composite est accessible que ce soit par la cosse poignard TP3, le bornier à vis J3 ou la prise CINCH J2.
 
-Le troisième AOP U2C est utilisé comme montage suiveur pour le signal sonal sonaore atténué (ou pas) et le quatrième AOP puis qu'il est là est utilisé pour faire suivre le signal sonnore ajusté par RV1.
+Le troisième AOP U2C est utilisé comme montage suiveur pour le signal sonal sonaore atténué (ou pas) et le quatrième AOP U2D puis qu'il est là, est utilisé pour faire suivre le signal sonnore ajusté par RV1.
 
 Le commutateur rotatif à 4 positions permet de disposer de 4 images différentes le principe du choix est de faire varier la tension sur D3 par la combinaison de résistances R1 à R5. (R5 est superflue).
 
