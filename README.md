@@ -21,4 +21,4 @@ Le troisième AOP U2C est utilisé comme montage suiveur pour le signal sonal so
 
 Le commutateur rotatif à 4 positions permet de disposer de 4 images différentes le principe du choix est de faire varier la tension sur D3 par la combinaison de résistances R1 à R5. (R5 est superflue).
 
-Enfin on peut remarquer l'ajout des pads sur RV1, RV2 et SW1. Ils ont pour rôle de pouvoir remplacer ces 3 composants de PCB par des éléments déportés selon le choix du maker.
+Enfin on peut remarquer l'ajout des pads sur RV1, RV2 et SW1. Ils ont pour rôle de pouvoir remplacer ces 3 composants de PCB par des éléments déportés selon le choix du "maker".
