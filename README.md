@@ -11,7 +11,7 @@ Le Top de synchro du signal vidéo composite de la 32ème ligne peut ou non êtr
 
 Le Seeeduino XIAO fournit sur son port DAC (A0) le signal vidéo.
 
-Il fournit également sur sur son port D1 le signal numérique de synchro. Ce signal a besoin d'être atténué en suite par le pont diviseur R7 et R9 avant d'être additionné par le sommateur U2A.
+Il fournit également sur sur son port D1 le signal numérique de synchro. Ce signal a besoin d'être atténué ensuite par le pont diviseur R7 et R9 avant d'être additionné par le sommateur U2A.
 
 La résistance RV2 permet d'ajuster au mieux au format NBTV le signal de vidéo composite en sortie U2A.
 
